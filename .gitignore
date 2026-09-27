@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+# generated working data (audio, transcripts, SRTs, TSVs)
+anki_work/
+json_transcripts/
+subs/
+srts/
+videos.tsv
+urls.txt
+*.csv
+*.apkg
