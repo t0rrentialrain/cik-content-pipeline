@@ -1,0 +1,4 @@
+kiwipiepy
+genanki
+yt-dlp
+subs2cia @ git+https://github.com/mattvsjapan/subs2cia.git

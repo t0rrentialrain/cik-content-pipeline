@@ -41,8 +41,7 @@ python pipeline.py --phase 4  # a single phase
 ## Setup
 
 ```bash
-pip install kiwipiepy genanki yt-dlp
-pip install git+https://github.com/mattvsjapan/subs2cia.git
+pip install -r requirements.txt   # plus ffmpeg on your PATH
 ```
 
 - Phases 3 and 5 call the transcription and `apkg_export.py` helpers from [dojo-prompts](https://github.com/mattvsjapan/dojo-prompts), which should be cloned into `$KO_DIR/dojo-prompts`.
